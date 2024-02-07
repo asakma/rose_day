@@ -9,10 +9,11 @@ body, html {
 }
 
 h1{
-  text-align: right;
+  text-align: center;
   margin-top: 550px;
   width: auto;
   font-size: 18px;
+  color:white;
   font-family: 'Courier New', Courier, monospace;
 }
 p{
